@@ -1,6 +1,6 @@
 {
   "name": "try-call",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "description": "Functional try-catch",
   "main": "index.js",
   "scripts": {
