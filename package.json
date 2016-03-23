@@ -1,6 +1,6 @@
 {
   "name": "try-call",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Functional try-catch",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "optimization"
   ],
   "repository": {
-    "url": "git@github.com:azer\/try-call.git",
+    "url": "git@github.com:n-johnson/try-call.git",
     "type": "git"
   },
   "author": "azer",
